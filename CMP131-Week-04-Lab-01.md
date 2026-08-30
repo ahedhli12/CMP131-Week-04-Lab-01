@@ -1,5 +1,8 @@
 # CMP 131 – Python Programming
 
+
+> **Required file location:** Keep every Python file directly in the repository root. Do not create a `src` folder.
+
 ## Week 4 – Lab 1: Box Office Report and Interest Earned
 
 ### Learning Objectives
@@ -357,7 +360,7 @@ Organize the assignment as follows:
 
   * `Lab-01`
 
-    * `CMP131-Week-04-Lab-01.md`
+    * `CMP131-Week-04-Lab-0.md1.md`
     * `AI-Use-Report.md`
     * `src`
 
@@ -370,8 +373,8 @@ Submit or push the complete `Lab-01` folder.
 
 The submission must include:
 
-* `src/box_office_report.py`
-* `src/interest_earned.py`
+* `box_office_report.py`
+* `interest_earned.py`
 * `AI-Use-Report.md`
 
 Before submitting, verify that:
@@ -399,3 +402,43 @@ Before submitting, verify that:
 * Improve report formatting
 * Test both Week 4 programs
 * Complete Week 4 Python lab
+
+---
+
+## GitHub Starter Repository
+
+Use the following public starter repository:
+
+[CMP131-Week-04-Lab-01](https://github.com/ahedhli12/CMP131-Week-04-Lab-01)
+
+### Getting Started
+
+1. Open the starter repository using the link above.
+2. If **Use this template** is available, select **Use this template → Create a new repository**.
+3. Choose your personal GitHub account as the owner.
+4. Name your repository `LastName-FirstName-CMP131-Week-04-Lab-01`.
+5. Set your repository to **Public**.
+6. Clone your own newly created repository—not the instructor’s starter repository.
+7. Open the entire cloned folder in Visual Studio Code.
+8. Complete and test every required Python file.
+9. Commit and push your work to GitHub.
+10. Verify that your latest files appear on GitHub.
+11. Complete `AI-Use-Report.md`.
+12. Submit the required work through Blackboard Ultra and include your public repository link when requested.
+
+### Required Repository Files
+
+- `CMP131-Week-04-Lab-01.md`
+- `AI-Use-Policy.md`
+- `AI-Use-Report.md`
+- `box_office_report.py`
+- `interest_earned.py`
+
+### Before You Submit
+
+- [ ] All required Python files are in the repository root.
+- [ ] Every required filename is exact.
+- [ ] Each program runs successfully.
+- [ ] Required tests and screenshots are complete.
+- [ ] `AI-Use-Report.md` is complete and accurate.
+- [ ] The latest commit is visible on GitHub.
